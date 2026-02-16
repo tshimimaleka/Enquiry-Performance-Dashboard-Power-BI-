@@ -98,7 +98,6 @@ Conversion Rate: 48.60%
 
 ### 📊 Dashboard Insights
 🔹 1. Conversion Performance
-
 The dashboard shows that 48.60% of enquiries were successfully converted during the week. This indicates moderate sales performance with room for improvement.
 
 🔹 2. Consultant Performance
@@ -112,8 +111,11 @@ Mauritius and Zanzibar received the highest number of enquiries, indicating stro
 
 ## 🛠 Tools Used
 Power BI
+
 Microsoft Excel
+
 Data Cleaning & Transformation
+
 DAX (for calculated measures)
 
 ## 📷 Dashboard
