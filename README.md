@@ -1,7 +1,6 @@
 # End-to-End Website & Enquiry Data Analysis
 
 ## Task 1 – Website Traffic Analysis
-
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
 decrease of 4,597 sessions, which is about (11%).
 
@@ -35,7 +34,6 @@ Although fewer people visited the website in week 2, the users stayed active and
 
 
 ## Task 2 – Website Highlights
-
 •	From 5-11 Jan to 12-18 Jan, the total page views dropped from 167,521 to 150,125.
 
 •	Active users decreased from 32,138 to 28,214.
@@ -49,12 +47,16 @@ Although fewer people visited the website in week 2, the users stayed active and
 •	Key events increased slightly from 4,379 to 4,390.
 
 ### Pages Performance
-
 •	“Holiday Packages 2026” page views dropped from 19,191 to 15,947.
+
 •	“Thailand Packages” page views dropped from 6,754 to 5,947.
+
 •	“Zanzibar Holiday Packages” page views dropped from 5,885 to 5,155.
+
 •	“MSC Cruise / Cruise Holiday Pages” dropped from 5,947 to 5,036.
+
 •	“Mauritius Package Page” appeared in week 2 with 4,581 views.
+
 •	“BIG TRAVEL SALE” page views increased from 3,520 to 4,608.
 
 ### Conclusion
@@ -66,7 +68,6 @@ The website activity decreased, but engagement improved slightly. Some top pages
 
 
 ## Task 3 – Data Cleaning & Preparation
-
 ### Conclusion
 I would like to share how I cleaned and prepared the enquiry dataset using Excel. First, I reviewed the dataset to understand the structure and columns. I removed duplicate records to ensure each enquiry was unique. I then checked for missing or blank values and corrected them where necessary. The Package ID column was left blank because it was not applicable, or no data was provided for that field. I also standardized text fields to ensure consistency (for example, correcting different spellings and formats), and verified that dates and numeric columns were properly formatted. After completing the cleaning process, I created a Pivot Table to summarize the data and analyze key trends, which helped generate clear insights from the dataset.
 
