@@ -4,6 +4,7 @@
 
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
 decrease of 4,597 sessions, which is about (11%).
+
 •	 From 5-11 Jan to 12-18 Jan, engaged sessions dropped from 38,159 to 33,518.
 •	The Engagement rate went down slightly from 93.54% to 92.61%.
 •	The Average engagement rate time per session stayed the same at 1m 38s.
