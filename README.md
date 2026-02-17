@@ -127,6 +127,7 @@ Business Insight Communication
 ## 🚀 Author
 
 Tshimi Maleka
+
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 
