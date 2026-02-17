@@ -128,7 +128,7 @@ Business Insight Communication
 
 ## 🚀 Author
 
-Tshimi Maleka
+**Tshimi Maleka**
 
 Aspiring Data Analyst 
 
