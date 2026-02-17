@@ -35,6 +35,7 @@ Mauritius and Zanzibar received the highest number of enquiries, indicating stro
 Power BI | Microsoft Excel | Data Cleaning & Transformation | DAX (for calculated measures)
 
 ## Task 1 – Website Traffic Analysis
+![](https://i.postimg.cc/RFBdxTWj/traffic.jpg)
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
 decrease of 4,597 sessions, which is about (11%).
 
