@@ -9,10 +9,10 @@ Total Converted: 225
 Unconverted: 205
 Conversion Rate: 48.60%
 
-## 📷 Dashboard
+### 📷 Dashboard
 ![](https://i.postimg.cc/W3Q3CDF3/Enquiry-Dashboard.png)
 
-## 📊 Live Dashboard
+### 📊 Live Dashboard
 A fully interactive **Power BI Enquiry Conversion Performance Dashboard** has been published.
 ### 🔗 View it here:  
 https://app.powerbi.com/groups/me/reports/e6b02c04-5b7a-4a31-a50f-4003dd073259/5d729a73eb34e8d8cc7b?experience=power-bi
@@ -31,7 +31,7 @@ The time-series analysis shows a peak in enquiries on 8 January, followed by a d
 **4. Destination Popularity:** 
 Mauritius and Zanzibar received the highest number of enquiries, indicating strong customer interest in island destinations.
 
-## 🛠 Tools Used
+### 🛠 Tools Used
 Power BI | Microsoft Excel | Data Cleaning & Transformation | DAX (for calculated measures)
 
 ## Task 1 – Website Traffic Analysis
