@@ -9,34 +9,30 @@ Total Converted: 225
 Unconverted: 205
 Conversion Rate: 48.60%
 
-### 📊 Dashboard Insights
-**1. Conversion Performance:** 
-The dashboard shows that 48.60% of enquiries were successfully converted during the week. This indicates moderate sales performance with room for improvement.
-**2. Consultant Performance:** 
-The “Enquiries Per Consultant” visual highlights top-performing consultants based on the number of enquiries handled.
-**3. Enquiry Trend Analysis:** 
-The time-series analysis shows a peak in enquiries on 8 January, followed by a decline towards 10 January.
-**4. Destination Popularity:** 
-Mauritius and Zanzibar received the highest number of enquiries, indicating strong customer interest in island destinations.
-
-## 🛠 Tools Used
-Power BI
-
-Microsoft Excel
-
-Data Cleaning & Transformation
-
-DAX (for calculated measures)
-
 ## 📷 Dashboard
 ![](https://i.postimg.cc/W3Q3CDF3/Enquiry-Dashboard.png)
 
 ## 📊 Live Dashboard
 A fully interactive **Power BI Enquiry Conversion Performance Dashboard** has been published.
-## 🔗 View it here:  
+### 🔗 View it here:  
 https://app.powerbi.com/groups/me/reports/e6b02c04-5b7a-4a31-a50f-4003dd073259/5d729a73eb34e8d8cc7b?experience=power-bi
-
 *(Requires Power BI access)*
+
+### 📊 Dashboard Insights
+**1. Conversion Performance:** 
+The dashboard shows that 48.60% of enquiries were successfully converted during the week. This indicates moderate sales performance with room for improvement.
+
+**2. Consultant Performance:** 
+The “Enquiries Per Consultant” visual highlights top-performing consultants based on the number of enquiries handled.
+
+**3. Enquiry Trend Analysis:** 
+The time-series analysis shows a peak in enquiries on 8 January, followed by a decline towards 10 January.
+
+**4. Destination Popularity:** 
+Mauritius and Zanzibar received the highest number of enquiries, indicating strong customer interest in island destinations.
+
+## 🛠 Tools Used
+Power BI | Microsoft Excel | Data Cleaning & Transformation | DAX (for calculated measures)
 
 ## Task 1 – Website Traffic Analysis
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
